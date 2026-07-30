@@ -66,6 +66,7 @@ export const projects: Project[] = [
     description:
       "Jogo interativo inspirado no filme Detona Ralph, desenvolvido com TypeScript para tipagem segura e melhor organização do código.",
     tags: ["TypeScript", "HTML5", "CSS3"],
+    demoUrl: "https://detona-ralph-ts.vercel.app",
     githubUrl: "https://github.com/marcuslaf/detona-ralph-ts",
     gradient: "from-yellow-500 to-orange-500",
     icon: "🔨",
