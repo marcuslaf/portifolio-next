@@ -62,16 +62,6 @@ export const projects: Project[] = [
     icon: "⚙",
   },
   {
-    title: "Jogo da Memória",
-    description:
-      "Jogo com 3 níveis de dificuldade, efeitos sonoros (Web Audio API), records no localStorage e animações 3D CSS.",
-    tags: ["HTML5", "CSS3", "JavaScript", "Web Audio API"],
-    demoUrl: "https://desafio-jogo-da-memoria.vercel.app",
-    githubUrl: "https://github.com/marcuslaf/desafio-jogo-da-memoria",
-    gradient: "from-pink-500 to-rose-500",
-    icon: "🎮",
-  },
-  {
     title: "Detona Ralph (TypeScript)",
     description:
       "Jogo interativo inspirado no filme Detona Ralph, desenvolvido com TypeScript para tipagem segura e melhor organização do código.",
@@ -79,15 +69,5 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/marcuslaf/detona-ralph-ts",
     gradient: "from-yellow-500 to-orange-500",
     icon: "🔨",
-  },
-  {
-    title: "Barbearia AD Araújo",
-    description:
-      "Site institucional completo com dark/light mode, galeria horizontal, grades de serviços e SEO otimizado.",
-    tags: ["HTML5", "CSS3", "JavaScript", "SEO"],
-    demoUrl: "https://barbearia-ade-araujo.vercel.app",
-    githubUrl: "https://github.com/marcuslaf/barbearia-ade-araujo",
-    gradient: "from-stone-600 to-stone-800",
-    icon: "💈",
   },
 ];
